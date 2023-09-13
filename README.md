@@ -1,0 +1,2 @@
+# StrukDat
+jangan kebanyakan input
